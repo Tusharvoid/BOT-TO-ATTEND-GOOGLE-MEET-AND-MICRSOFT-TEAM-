@@ -1,0 +1,10 @@
+certifi==2020.6.20--------------pip install certifi
+chardet==3.0.4------------pip install chardet
+
+idna==2.8----pip install idna
+requests==2.21.0--------------pip install requests
+schedule==0.6.0------------------pip install schedule
+selenium==3.141.0-----------------pip install selenium
+urllib3==1.24.3--------------pip install urllib3
+
+
